@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# 根据threejs中的bloom效果在cesium中实现
+效果展示
+![image](https://github.com/Baiyunfei0106/cesiumBloom/assets/48794642/a121dd21-d433-419e-b78f-70e7f4ea67e4)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 运行项目
+npm install
+npm run dev
